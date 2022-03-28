@@ -1,0 +1,15 @@
+.error-page {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    .error-img {
+        height: 400px;
+        margin-bottom: 40px;
+    }
+
+    .error-message {
+        font-weight: 600;
+        font-size: 20px;
+    }
+}
